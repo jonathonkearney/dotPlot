@@ -1,6 +1,6 @@
-group,value1,value2
-State Highway Improvements,2482,3850
-State Highway Maintenance,1352,2130
-Local Road Maintenance,1207,2120
-Public Transport,1085,2040
-Road Policing,707,1110
+group,value1,value2,value3
+State Highway Improvements,2482,3850,4267
+State Highway Maintenance,1352,2130,2180
+Local Road Maintenance,1207,2120,2009
+Public Transport,1085,2040,1977
+Road Policing,707,1110,1108
