@@ -1,59 +1,59 @@
-﻿Name,Strategise,Discover,Define,Design,Deliver
-Activation session,TRUE,TRUE,TRUE,TRUE,TRUE
-Design Sprints,TRUE,TRUE,TRUE,TRUE,TRUE
-Design Thinking,TRUE,TRUE,TRUE,TRUE,TRUE
-Facilitated Discussions,TRUE,TRUE,TRUE,TRUE,TRUE
-Focus Groups,TRUE,TRUE,TRUE,TRUE,TRUE
-Surveys,TRUE,TRUE,TRUE,TRUE,TRUE
-Workshops,TRUE,TRUE,TRUE,TRUE,TRUE
-Alginment Workshop,TRUE,TRUE,FALSE,FALSE,FALSE
-Dot Voting,TRUE,FALSE,TRUE,TRUE,FALSE
-Personas,TRUE,FALSE,TRUE,TRUE,FALSE
-Canvas (ES),TRUE,FALSE,FALSE,FALSE,FALSE
-Design Strategy,TRUE,FALSE,FALSE,FALSE,FALSE
-Value Maps,TRUE,FALSE,FALSE,FALSE,FALSE
-5-Whys,FALSE,TRUE,TRUE,TRUE,FALSE
-Brain Writing,FALSE,TRUE,TRUE,TRUE,FALSE
-Journey Mapping,FALSE,TRUE,TRUE,TRUE,FALSE
-Empathy Map,FALSE,TRUE,FALSE,TRUE,FALSE
-Ecosystem Map,FALSE,TRUE,FALSE,TRUE,FALSE
-We Will Fail If...,FALSE,TRUE,FALSE,FALSE,FALSE
-Brain Storming,FALSE,TRUE,FALSE,FALSE,FALSE
-Cataloging,FALSE,TRUE,FALSE,FALSE,FALSE
-Cultural Probe,FALSE,TRUE,FALSE,FALSE,FALSE
-Current State Mapping,FALSE,TRUE,FALSE,FALSE,FALSE
-Customer Direction,FALSE,TRUE,FALSE,FALSE,FALSE
-Desk Research,FALSE,TRUE,FALSE,FALSE,FALSE
-Drawing? Ideal Experience,FALSE,TRUE,FALSE,FALSE,FALSE
-Future State Mapping,FALSE,TRUE,FALSE,FALSE,FALSE
-lego Scenarios Play,FALSE,TRUE,FALSE,FALSE,FALSE
-Needs Statement,FALSE,TRUE,FALSE,FALSE,FALSE
-Problem Statement,FALSE,TRUE,FALSE,FALSE,FALSE
-Ride Along,FALSE,TRUE,FALSE,FALSE,FALSE
-Scenario Games,FALSE,TRUE,FALSE,FALSE,FALSE
-User/Task/Environment,FALSE,TRUE,FALSE,FALSE,FALSE
-Co-Design,FALSE,FALSE,TRUE,TRUE,FALSE
-Business Canvas,FALSE,FALSE,TRUE,FALSE,FALSE
-Mindsets,FALSE,FALSE,TRUE,FALSE,FALSE
-To Be?,FALSE,FALSE,TRUE,FALSE,FALSE
-User Stories?,FALSE,FALSE,TRUE,FALSE,FALSE
-We care?,FALSE,FALSE,TRUE,FALSE,FALSE
-Prototyping,FALSE,FALSE,FALSE,TRUE,TRUE
-Wireframes,FALSE,FALSE,FALSE,TRUE,TRUE
-(something) of user stories,FALSE,FALSE,FALSE,TRUE,FALSE
-5/3/true Prioritisation,FALSE,FALSE,FALSE,TRUE,FALSE
-Card Sort,FALSE,FALSE,FALSE,TRUE,FALSE
-Crazy 8's,FALSE,FALSE,FALSE,TRUE,FALSE
-Definition of 'Done',FALSE,FALSE,FALSE,TRUE,FALSE
-How Might We,FALSE,FALSE,FALSE,TRUE,FALSE
-Hypertheorising?,FALSE,FALSE,FALSE,TRUE,FALSE
-Prioritisation Grids,FALSE,FALSE,FALSE,TRUE,FALSE
-Random Control Trials?,FALSE,FALSE,FALSE,TRUE,FALSE
-Story Mapping,FALSE,FALSE,FALSE,TRUE,FALSE
-Town Halls,FALSE,FALSE,FALSE,TRUE,FALSE
-A/B Testing,FALSE,FALSE,FALSE,FALSE,TRUE
-Exp Based Roadmaps,FALSE,FALSE,FALSE,FALSE,TRUE
-Metrics for Success,FALSE,FALSE,FALSE,FALSE,TRUE
-Paper Prototypes,FALSE,FALSE,FALSE,FALSE,TRUE
-Service Blueprints,FALSE,FALSE,FALSE,FALSE,TRUE
-Participatory Research,FALSE,FALSE,FALSE,FALSE,FALSE
+﻿title,Strategise,Discover,Define,Design,Deliver,groups
+Activation session,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Design Sprints,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Design Thinking,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Facilitated Discussions,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Focus Groups,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Surveys,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Workshops,Strategise,Discover,Define,Design,Deliver,"Strategise, Discover, Define, Design, Deliver"
+Prototyping,,,,Design,Deliver,"Design, Deliver"
+Wireframes,,,,Design,Deliver,"Design, Deliver"
+A/B Testing,,,,,Deliver,Deliver
+Exp Based Roadmaps,,,,,Deliver,Deliver
+Metrics for Success,,,,,Deliver,Deliver
+Paper Prototypes,,,,,Deliver,Deliver
+Service Blueprints,,,,,Deliver,Deliver
+5-Whys,,Discover,Define,Design,,"Discover, Define, Design"
+Brain Writing,,Discover,Define,Design,,"Discover, Define, Design"
+Journey Mapping,,Discover,Define,Design,,"Discover, Define, Design"
+Dot Voting,Strategise,,Define,Design,,"Strategise, Define, Design"
+Personas,Strategise,,Define,Design,,"Strategise, Define, Design"
+Co-Design,,,Define,Design,,"Define, Design"
+Empathy Map,,Discover,,Design,,"Discover, Design"
+Ecosystem Map,,Discover,,Design,,"Discover, Design"
+(something) of user stories,,,,Design,,Design
+5/3/true Prioritisation,,,,Design,,Design
+Card Sort,,,,Design,,Design
+Crazy 8's,,,,Design,,Design
+Definition of 'Done',,,,Design,,Design
+How Might We,,,,Design,,Design
+Hypertheorising?,,,,Design,,Design
+Prioritisation Grids,,,,Design,,Design
+Random Control Trials?,,,,Design,,Design
+Story Mapping,,,,Design,,Design
+Town Halls,,,,Design,,Design
+Business Canvas,,,Define,,,Define
+Mindsets,,,Define,,,Define
+To Be?,,,Define,,,Define
+User Stories?,,,Define,,,Define
+We care?,,,Define,,,Define
+Alginment Workshop,Strategise,Discover,,,,"Strategise, Discover"
+We Will Fail If...,,Discover,,,,Discover
+Brain Storming,,Discover,,,,Discover
+Cataloging,,Discover,,,,Discover
+Cultural Probe,,Discover,,,,Discover
+Current State Mapping,,Discover,,,,Discover
+Customer Direction,,Discover,,,,Discover
+Desk Research,,Discover,,,,Discover
+Drawing? Ideal Experience,,Discover,,,,Discover
+Future State Mapping,,Discover,,,,Discover
+lego Scenarios Play,,Discover,,,,Discover
+Needs Statement,,Discover,,,,Discover
+Problem Statement,,Discover,,,,Discover
+Ride Along,,Discover,,,,Discover
+Scenario Games,,Discover,,,,Discover
+User/Task/Environment,,Discover,,,,Discover
+Canvas (ES),Strategise,,,,,Strategise
+Design Strategy,Strategise,,,,,Strategise
+Value Maps,Strategise,,,,,Strategise
+Participatory Research,,,,,,
