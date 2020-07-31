@@ -1,5 +1,5 @@
 ﻿Name,Strategise,Discover,Define,Design,Deliver
-"""We Will Fail If...""",FALSE,TRUE,FALSE,FALSE,FALSE
+We Will Fail If...,FALSE,TRUE,FALSE,FALSE,FALSE
 (something) of user stories,FALSE,FALSE,FALSE,TRUE,FALSE
 5/3/true Prioritisation,FALSE,FALSE,FALSE,TRUE,FALSE
 5-Whys,FALSE,TRUE,TRUE,TRUE,FALSE
